@@ -18,3 +18,10 @@
 
 ## Trivia
 ![9](https://github.com/user-attachments/assets/3fb56ff7-aed0-4e0e-a451-ea68b180804b)
+
+## 📁 Funciones utilizadas 
+  - Bucles for y while.
+  - Inputs: interacción con el usuario 
+  - Sentencias condicionales (IF, ELSE, END)
+  - Diccionarios
+  -  Selección Random
